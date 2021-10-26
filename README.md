@@ -7,4 +7,5 @@ This program calculates the average of two numbers.
 To download app and install.
 ## Usage
 To input numbers z and d.
-## Contribution
+## Result
+The output a number average of numbers z and d.
